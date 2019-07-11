@@ -1,4 +1,7 @@
 
-h2 {
-  color: blue;
-}
+h2 {color: red;}
+ol {color:green}
+ul {color: blue}
+th {color:yellow}
+form {color:pink}
+tr {color:orange}
